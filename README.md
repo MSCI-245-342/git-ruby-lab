@@ -1,3 +1,3 @@
-# startergit
+# Git and Ruby Lab
 
-This is a readme.
+Name: Replace_with_your_first_and_last_name_here
